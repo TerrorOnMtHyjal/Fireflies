@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jared\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jared\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Fireflies.181106417.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jared\Desktop\unity\Fireflies\Fireflies" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Project" t="Include">
+          <e p="Firefly" t="Include">
+            <e p="Firefly.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Enhanced Hierarchy" t="Include">
+            <e p="Editor" t="Include">
+              <e p="After.cs" t="Include" />
+              <e p="Disposables.cs" t="Include" />
+              <e p="EnhancedHierarchy.asmdef" t="Include" />
+              <e p="EnhancedHierarchy.cs" t="Include" />
+              <e p="Enumerations.cs" t="Include" />
+              <e p="HierarchyInfo.cs" t="Include" />
+              <e p="Icons" t="Include">
+                <e p="Active.cs" t="Include" />
+                <e p="GameObjectIcon.cs" t="Include" />
+                <e p="IconBase.cs" t="Include" />
+                <e p="IconData.cs" t="Include" />
+                <e p="IconList.cs" t="Include" />
+                <e p="Layer.cs" t="Include" />
+                <e p="Lock.cs" t="Include" />
+                <e p="Memory.cs" t="Include" />
+                <e p="MonoBehaviourIcon.cs" t="Include" />
+                <e p="None.cs" t="Include" />
+                <e p="PrefabApply.cs" t="Include" />
+                <e p="RendererToggle.cs" t="Include" />
+                <e p="SoundIcon.cs" t="Include" />
+                <e p="Static.cs" t="Include" />
+                <e p="Tag.cs" t="Include" />
+                <e p="Warnings.cs" t="Include" />
+              </e>
+              <e p="LogEntry.cs" t="Include" />
+              <e p="MiniLabels" t="Include">
+                <e p="LayerMiniLabel.cs" t="Include" />
+                <e p="MiniLabelProvider.cs" t="Include" />
+                <e p="SortingLayerMiniLabel.cs" t="Include" />
+                <e p="TagMiniLabel.cs" t="Include" />
+              </e>
+              <e p="Preferences.cs" t="Include" />
+              <e p="PreferencesGUI.cs" t="Include" />
+              <e p="PrefItem.cs" t="Include" />
+              <e p="ProfilerSample.cs" t="Include" />
+              <e p="Reflected.cs" t="Include" />
+              <e p="ReflectionHelper.cs" t="Include" />
+              <e p="Styles.cs" t="Include" />
+              <e p="Utility.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="EnhancedHierarchyEditor.csproj" t="IncludeRecursive" />
+      <e p="Fireflies.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
